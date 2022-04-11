@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luciagadur@gmail.com
+	name = lucia gadur
